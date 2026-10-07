@@ -219,7 +219,7 @@ Ruta por defecto y NAT en el FortiGate. El PC de usuarios tiene salida hacia el 
 | FG1-USUARIOS | [configs/FG1-USUARIOS_.conf](configs/FG1-USUARIOS_.conf) |
 | FG2-SERVER | [configs/FG2-SERVER.conf](configs/FG2-SERVER.conf) |
 | SW-SITIO01 | [configs/swconfig.txt](configs/swconfig.txt) |
-| ISP-2168 | [configs/swconfig.txt](configs/swconfig.txt) |
+| ISP-2168 | [configs/ispcpnfig.txt](configs/ispcpnfig.txt) |
 
 ---
 
