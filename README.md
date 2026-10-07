@@ -93,9 +93,9 @@ flowchart LR
 1ER-PARCIAL-SEGURIDAD-DE-REDES/
 ├── README.md
 ├── configs/
-│   ├── FG1-USUARIOS.txt
-│   ├── FG2-SERVER.txt
-│   └── SW-SITIO01.txt
+│   ├── FG1-USUARIOS_.conf
+│   ├── FG2-SERVER.conf
+│   └── swconfig.txt
 └── imagenes/
 ```
 
@@ -211,11 +211,13 @@ Ruta por defecto y NAT en el FortiGate. El PC de usuarios tiene salida hacia el 
 
 ---
 
-6. Archivos de configuración
-Equipo	Archivo
-FG1-USUARIOS	configs/FG1-USUARIOS_.conf
-FG2-SERVER	configs/FG2-SERVER.conf
-SW-SITIO01	configs/swconfig.txt
+## 6. Archivos de configuración
+
+| Equipo | Archivo |
+|---|---|
+| FG1-USUARIOS | [configs/FG1-USUARIOS_.conf](configs/FG1-USUARIOS_.conf) |
+| FG2-SERVER | [configs/FG2-SERVER.conf](configs/FG2-SERVER.conf) |
+| SW-SITIO01 | [configs/swconfig.txt](configs/swconfig.txt) |
 
 ---
 
