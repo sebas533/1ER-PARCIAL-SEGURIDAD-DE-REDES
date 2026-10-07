@@ -211,13 +211,11 @@ Ruta por defecto y NAT en el FortiGate. El PC de usuarios tiene salida hacia el 
 
 ---
 
-## 6. Archivos de configuración
-
-| Equipo | Archivo |
-|---|---|
-| FG1-USUARIOS | [configs/FG1-USUARIOS.txt](configs/FG1-USUARIOS.txt) |
-| FG2-SERVER | [configs/FG2-SERVER.txt](configs/FG2-SERVER.txt) |
-| SW-SITIO01 | [configs/SW-SITIO01.txt](configs/SW-SITIO01.txt) |
+6. Archivos de configuración
+Equipo	Archivo
+FG1-USUARIOS	configs/FG1-USUARIOS_.conf
+FG2-SERVER	configs/FG2-SERVER.conf
+SW-SITIO01	configs/swconfig.txt
 
 ---
 
