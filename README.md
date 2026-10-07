@@ -1,8 +1,9 @@
 # 1er Parcial – Seguridad de Redes
 
-**Estudiante:** Sebastián  
-**Matrícula:** 2168  
+**Estudiante:** Luis Sebastián Roble Perez  
+**Matrícula:** 2025-2168  
 **Asignatura:** Seguridad de Redes  
+**Maestro:** Jonathan Rondon
 **Video de la demostración:** [Ver video](PEGAR_AQUI_EL_ENLACE_DEL_VIDEO)
 
 ---
