@@ -131,7 +131,11 @@ Se configuraron únicamente las líneas **VTY 0 4**, con acceso solo por SSH y a
 
 **Acceso remoto por VTY:**
 
-![Acceso remoto por VTY](imagenes/requisito%20%233%20acceso%20remoto%20por%20vty.png)
+![Acceso remoto por VTY](imagenes/acceso%20remoto%20por%20vty.png)
+
+**Acceso remoto por VTY (captura adicional):**
+
+![Acceso remoto por VTY 2](imagenes/requisto%20%233%20acceso%20remoto%20por%20vty.png)
 
 **Solo VTY 0 4 con SSH únicamente:**
 
@@ -195,8 +199,7 @@ Política que permite a la VLAN 10 acceder al Web Server por HTTP (80). Cualquie
 
 Web Server con **Apache (HTTP)** operativo y DB Server con **MariaDB** escuchando en el puerto **3306**.
 
-![MariaDB escuchando en 3306](<img width="988" height="90" alt="requisito 7 escuhando por 3306 " src="https://github.com/user-attachments/assets/429336be-55c8-498d-b609-9e2d98d99d70" />
-)
+![MariaDB escuchando en 3306](imagenes/requisito%207%20escuhando%20por%203306%20.png)
 
 ---
 
