@@ -4,7 +4,7 @@
 **Matrícula:** 2025-2168  
 **Asignatura:** Seguridad de Redes  
 **Maestro:** Jonathan Rondon
-**Video de la demostración:** [Ver video](PEGAR_AQUI_EL_ENLACE_DEL_VIDEO)
+**Video de la demostración:** [Ver video](https://youtu.be/PfNWZeMj7Qo)
 
 ---
 
@@ -224,4 +224,4 @@ Ruta por defecto y NAT en el FortiGate. El PC de usuarios tiene salida hacia el 
 
 ## 7. Video
 
-[Enlace al video de la demostración](PEGAR_AQUI_EL_ENLACE_DEL_VIDEO)
+[Enlace al video de la demostración](https://youtu.be/PfNWZeMj7Qo)
